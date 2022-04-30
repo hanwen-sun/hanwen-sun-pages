@@ -16,8 +16,8 @@ languages:
     title: "Zs's Homepage"
     contentDir: content/zh-cn
     params:
-      author: "战硕"
-      author_bio: "一名来自西北工业大学的本科生，对机器人及计算机视觉感兴趣。"
+      author: "孙翰文"
+      author_bio: "一名来自东北大学的本科生，对机器人及计算机视觉感兴趣。"
       menu:
         Index:
           name: "Index"
