@@ -1,9 +1,9 @@
 ---
-title: "Shuo Zhan's HomePage"
+title: "Hanwen Sun's HomePage"
 homepage: true
 ---
 ### About me
-This is a simple page for academic website based on [Hugo](https://gohugo.io/). It just provides a theme frame and all depends on your markdown posts’ styles.
+Hi, welcome to my homepage.
 
 **This is the index page which organized with the posts you write in markdown files.(with Front matter true)**
 
